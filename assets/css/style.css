@@ -1,0 +1,17 @@
+body{
+    font-family: roboto;
+}
+
+.imagen{
+    width: 84px;
+    height: 25px;
+}
+
+.direccion{
+    font-size: small;
+}
+
+.imagenCuppon{
+    width: 82px;
+    height: 24px;
+}
